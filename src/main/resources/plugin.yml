@@ -1,0 +1,4 @@
+name: ${name}
+main: com.keremc.achilles.AchillesPlugin
+version: ${version}
+author: Kerem Celik
